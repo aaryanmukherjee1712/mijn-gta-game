@@ -1,4 +1,3 @@
-# mijn-gta-game// Speler
 const player = new THREE.Group();
 // AUTO
 const car = new THREE.Group();
